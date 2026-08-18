@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="ELEMENTS" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 165 165">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <polygon points="104.43 88.31 95.66 97.08 86.89 97.08 79.21 104.76 79.21 97.08 69.34 97.08 69.34 64.18 104.43 64.18 104.43 88.31"/>
+  <path class="cls-1" d="M67.15,59.79l-10.97,10.97v39.48h13.16v10.97l10.97-10.97h8.77l19.74-19.74v-30.71h-41.68ZM104.43,88.31l-8.77,8.77h-8.77l-7.68,7.68v-7.68h-9.87v-32.9h35.1v24.13h0Z"/>
+  <rect class="cls-1" x="93.47" y="71.86" width="4.39" height="13.16"/>
+  <rect class="cls-1" x="81.4" y="71.86" width="4.39" height="13.16"/>
+</svg>
